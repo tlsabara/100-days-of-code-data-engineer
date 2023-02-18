@@ -1,9 +1,10 @@
 # 100-days-of-code-data-engineer
-
-100 Dias de código relacionados aos conhecimentos de engenharia de dados.
+```diff
+- Caso não tenha nada nesta branch, observe es outras. (GitFlow)
+```
 
 ---
-Caso não tenha nada nesta branch, observe es outras. (GitFlow)
+<p style="color:red;">100 Dias de código relacionados aos conhecimentos de engenharia de dados.</p>
 
 ---
 ## Objetivo:
