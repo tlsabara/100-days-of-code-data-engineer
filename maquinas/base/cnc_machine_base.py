@@ -77,7 +77,7 @@ class TxtMachineWorker(Machine):
     type = 'txt'
     def _work_report(self, filename):
         # Este worker gera arquivos com falha
-        junk_str = [f'{k}:{v} | ' if choice((True,False)) else f'{k}| ' for k, v in self.base_model.items()]
+        junk_str = [f'{k}:{v} | ' if choice((True,False,True,True)) else f'{k}: | ' for k, v in self.export_model.items()]
 
         with open(self.save_folder / f'{filename}.{self.type}', 'w') as file:
             file.writelines(junk_str)

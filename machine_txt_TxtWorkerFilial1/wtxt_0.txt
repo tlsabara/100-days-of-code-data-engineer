@@ -1,1 +1,1 @@
-time| machine_id:TxtWorkerFilial1 | ip_machine:0.0.0.0/0 | work_model_name:ProjectB | work_model_weight| work_model_height| work_model_width| work_model_error_margin:0.0001 | work_model_total_time:0 | 
+time:2023-02-17-23-38-04 | machine_id:TxtWorkerFilial1 | ip_machine:0.0.0.0/0 | work_model_name: | work_model_weight:104.5 | work_model_height: | work_model_width:42.1 | work_model_error_margin:0.0849 | work_model_total_time:3.001466 | 
