@@ -1,0 +1,1 @@
+time| machine_id:TxtWorkerFilial1 | ip_machine:0.0.0.0/0 | work_model_name| work_model_weight| work_model_height:0 | work_model_width:0 | work_model_error_margin| work_model_total_time:0 | 
