@@ -1,4 +1,0 @@
-env/
-env/**
-python_docker\server\__pycache__
-*.pyc

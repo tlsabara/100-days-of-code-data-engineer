@@ -1,1 +1,0 @@
-time:2023-02-17-23-39-28 | machine_id: | ip_machine:0.0.0.0/0 | work_model_name:ProjectB | work_model_weight:100.4 | work_model_height:21.3 | work_model_width: | work_model_error_margin: | work_model_total_time:3.000446 | 
