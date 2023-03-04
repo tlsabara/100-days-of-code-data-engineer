@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+	<time type="str">2023-02-17-23-39-27</time>
+	<machine_id type="str">XmlWorkerFilial1</machine_id>
+	<ip_machine type="str">0.0.0.0/0</ip_machine>
+	<work_model_name type="str">ProjectB</work_model_name>
+	<work_model_weight type="float">102.8</work_model_weight>
+	<work_model_height type="float">22.8</work_model_height>
+	<work_model_width type="float">41.1</work_model_width>
+	<work_model_error_margin type="float">0.0269</work_model_error_margin>
+	<work_model_total_time type="float">1.000933</work_model_total_time>
+</root>

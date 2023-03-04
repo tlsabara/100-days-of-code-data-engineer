@@ -1,0 +1,1 @@
+time: | machine_id: | ip_machine:0.0.0.0/0 | work_model_name:ProjectB | work_model_weight:105.0 | work_model_height:21.0 | work_model_width: | work_model_error_margin:0.0921 | work_model_total_time:2.001089 | 

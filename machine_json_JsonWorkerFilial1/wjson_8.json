@@ -1,0 +1,11 @@
+{
+    "ip_machine": "0.0.0.0/0",
+    "machine_id": "JsonWorkerFilial1",
+    "time": "2023-02-17-23-39-22",
+    "work_model_error_margin": 0.0385,
+    "work_model_height": 23.0,
+    "work_model_name": "ProjectA",
+    "work_model_total_time": 5.000713,
+    "work_model_weight": 103.0,
+    "work_model_width": 44.6
+}
