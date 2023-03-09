@@ -20,3 +20,11 @@ O proximo passo é criar um processamento paralelo para esses workers.
 machine11000000001 foi o prmeiro teste
 as demais machines ja foram geradas pelas classes.
 
+
+(00:29) 09/03/2023
+
+Mensagem:
+
+Bom de volta ao di�rio de bordo. Estou com muitos projetos em curso e isso esta consumindo tempo deste projeto.
+Mesmo assim consegui progredir. Atualmente temos as classes bases e o escopo de f�birca construidos. F�cil configura��o(.json)
+Os pr�ximos passos s�o para montar a estrutura de docker para essas f�bricas.

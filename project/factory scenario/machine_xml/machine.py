@@ -32,7 +32,7 @@ def machine_method(id_line, start_date):
     global config
     global pcs
     FILIAL_CODE = '0001'
-    m_id = f'JsonWorker_Filial{FILIAL_CODE}__{id_line}'
+    m_id = f'XmlWorker_Filial{FILIAL_CODE}__{id_line}'
     wjson = XmlMachineWorker(machine_id=m_id, work_name=f'Line{id_line}')
     job = 0
     exec_days = (datetime.now() + timedelta(days=1)) - start_date
