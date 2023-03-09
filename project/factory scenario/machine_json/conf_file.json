@@ -1,0 +1,10 @@
+{
+  "machine_number": 4,
+  "each_machine_line": 3,
+  "machine_prefix_name": "JSONMACHINE_FORK",
+  "inconsistence": {
+    "each_days": 3,
+    "times_per_day": 4,
+    "inconsistency_duration": 15
+  }
+}

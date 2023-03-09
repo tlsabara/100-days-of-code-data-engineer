@@ -2,7 +2,7 @@ import json
 import random
 import time
 
-from resources.machines.base.cnc_machine_base import JsonMachineWorker
+from resources.machines.base.cnc_machine_base import XmlMachineWorker
 import concurrent.futures
 from datetime import datetime, timedelta
 
@@ -33,7 +33,7 @@ def machine_method(id_line, start_date):
     global pcs
     FILIAL_CODE = '0001'
     m_id = f'JsonWorker_Filial{FILIAL_CODE}__{id_line}'
-    wjson = JsonMachineWorker(machine_id=m_id, work_name=f'Line{id_line}')
+    wjson = XmlMachineWorker(machine_id=m_id, work_name=f'Line{id_line}')
     job = 0
     exec_days = (datetime.now() + timedelta(days=1)) - start_date
     lines_working = {}
